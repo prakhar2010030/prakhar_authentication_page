@@ -1,0 +1,15 @@
+.gradient{
+  
+    background: linear-gradient(90deg, #52D1F9 3.53%, #E563F8 77.4%);
+}
+body{
+    background:url(./components/images/bg\ artboard.png);
+    background-size: 100%;
+}
+.error{
+    color:red;
+}
+.home{
+   height: 400px; 
+   width: 400px; 
+}
